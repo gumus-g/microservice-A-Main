@@ -1,0 +1,25 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Carbonara",
+            "cuisine": "Italian",
+            "ingredients": ["Spaghetti", "Eggs", "Parmesan", "Pancetta"],
+            "steps": ["Boil pasta", "Fry pancetta", "Mix eggs and cheese", "Combine all"]
+        },
+        {
+            "id": 2,
+            "name": "Tacos",
+            "cuisine": "Mexican",
+            "ingredients": ["Tortillas", "Chicken", "Salsa", "Cheese"],
+            "steps": ["Cook chicken", "Warm tortillas", "Assemble tacos"]
+        },
+        {
+            "id": 3,
+            "name": "Sushi",
+            "cuisine": "Japanese",
+            "ingredients": ["Rice", "Nori", "Fish", "Wasabi"],
+            "steps": ["Cook rice", "Slice fish", "Roll sushi"]
+        }
+    ]
+}
